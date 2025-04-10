@@ -1,4 +1,4 @@
-👋 Ahoj, som Marian Kristel
+👋 Ahoj, som Marián Kristeľ.
 
 🎓 Som spoluzakladteľ vzdelávacej online platformy Skillmea, ktorá pomáha ľuďom rásť v oblastiach ako technológie, marketing, dizajn či podnikanie.
 
