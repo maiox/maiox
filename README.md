@@ -1,6 +1,6 @@
 👋 Ahoj, som Marián Kristeľ.
 
-🎓 Som spoluzakladteľ vzdelávacej online platformy Skillmea, ktorá pomáha ľuďom rásť v oblastiach ako technológie, marketing, dizajn či podnikanie.
+🎓 Som spoluzakladateľ vzdelávacej online platformy Skillmea, ktorá pomáha ľuďom rásť v oblastiach ako technológie, marketing, dizajn či podnikanie.
 
 ⚒️ V Skillmea ako COO zodpovedám za:
 - strategický rozvoj produktov a škálovanie platformy 📈  
